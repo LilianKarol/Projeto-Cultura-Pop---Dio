@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projeto.CulturaPop/1.0.0": {
+        "runtime": {
+          "Projeto.CulturaPop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto.CulturaPop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

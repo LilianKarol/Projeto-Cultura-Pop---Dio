@@ -1,0 +1,16 @@
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.csproj.AssemblyReference.cache
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.AssemblyInfoInputs.cache
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.AssemblyInfo.cs
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.csproj.CoreCompileInputs.cache
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\Projeto.Mangas.exe
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\Projeto.Mangas.deps.json
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\Projeto.Mangas.runtimeconfig.json
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\Projeto.Mangas.runtimeconfig.dev.json
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\Projeto.Mangas.dll
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\ref\Projeto.Mangas.dll
+C:\Users\User\Projeto.Mangas\bin\Debug\net5.0\Projeto.Mangas.pdb
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.dll
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\ref\Projeto.Mangas.dll
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.pdb
+C:\Users\User\Projeto.Mangas\obj\Debug\net5.0\Projeto.Mangas.genruntimeconfig.cache

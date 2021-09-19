@@ -1,0 +1,16 @@
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\Projeto.CulturaPop.exe
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\Projeto.CulturaPop.deps.json
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\Projeto.CulturaPop.runtimeconfig.json
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\Projeto.CulturaPop.runtimeconfig.dev.json
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\Projeto.CulturaPop.dll
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\ref\Projeto.CulturaPop.dll
+C:\Users\User\Projeto.CulturaPop\bin\Debug\net5.0\Projeto.CulturaPop.pdb
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.csproj.AssemblyReference.cache
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.AssemblyInfoInputs.cache
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.AssemblyInfo.cs
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.csproj.CoreCompileInputs.cache
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.dll
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\ref\Projeto.CulturaPop.dll
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.pdb
+C:\Users\User\Projeto.CulturaPop\obj\Debug\net5.0\Projeto.CulturaPop.genruntimeconfig.cache
